@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "349684709973",
+    "project_id": "cambasoft-mobileapp",
+    "storage_bucket": "cambasoft-mobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349684709973:android:1206c99e694ba70e39f2dc",
+        "android_client_info": {
+          "package_name": "com.cambasoft.mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349684709973-scg3s6ee08jqi6g12udotlfr90423ju3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cambasoft.mobileapp",
+            "certificate_hash": "16229e3254632417abf24f06ba2f13ac40ef98e3"
+          }
+        },
+        {
+          "client_id": "349684709973-9tsnu36p5cg5v9js6itbacsac69idst3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFNRLbZc_KHGfGraabZAoKLKQ6nst4XMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349684709973-9tsnu36p5cg5v9js6itbacsac69idst3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
